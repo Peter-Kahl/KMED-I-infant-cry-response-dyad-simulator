@@ -54,8 +54,8 @@ You may freely use, adapt, and extend the code for research and educational purp
 
 Please cite the paper and optionally the repository release tag:
 
-Kahl, P. (2025). _The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development
+- Kahl, P. (2025). _The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_. Lex et Ratio Ltd. GitHub: https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development
 
 and
 
-Kahl, P. (2025). KMED-I (Infancy): Cry–Response Dyad Simulator (Version v1.0-preprint) [Computer software]. Lex et Ratio Ltd. GitHub. https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/releases/tag/v1.0-preprint
+- Kahl, P. (2025). KMED-I (Infancy): Cry–Response Dyad Simulator (Version v1.0-preprint) [Computer software]. Lex et Ratio Ltd. GitHub. https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/releases/tag/v1.0-preprint
