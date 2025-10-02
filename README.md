@@ -1,14 +1,20 @@
-# KMED-I (Infant)
+# KMED-I (Infancy) — Cry–Response Dyad Simulator
 
 ![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/KMED-I-infant-simulation-epistemic-psychology/blob/main/mum_baby.jpg?raw=true)
 
-This repository contains the official Python reference implementations of the **Kahl Model of Epistemic Dissonance (KMED)**.
+This repository contains the official Python implementation of KMED-I (Infancy) — a simulation framework modelling the infant–caregiver cry–response dyad.
 
-KMED is a mathematical and computational framework for modelling epistemic clientelism, dissonance, and resilience in intimate and institutional contexts.
+KMED-I formalises the newborn’s cry as the first epistemic event, extending the _Kahl Model of Epistemic Dissonance_ (KMED) into developmental psychology. It models how caregiver policies—fiduciary, inconsistent, neglectful, or silencing—shape trajectories of:
 
-## Documentation
+- **Epistemic Autonomy (EA)** – persistence in signalling contradiction
+- **Dissonance Tolerance (DT)** – capacity to withstand contradiction
+- **Dependence (D)** – reliance on suppression versus recognition
 
-The scripts reproduce the simulations documented in the paper:
+The framework provides a computational tool for exploring epistemic clientelism, resilience, and trust, bridging intimate caregiving contexts with broader institutional and social applications.
+
+## Documentation & Usage
+
+The script reproduces the simulations documented in the paper:
 [**_The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_**](https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development) (Lex et Ratio Ltd, London, 2025).
 
 ## KMED-I Script
