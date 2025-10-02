@@ -17,10 +17,6 @@ The framework provides a computational tool for exploring epistemic clientelism,
 The script reproduces the simulations documented in the paper:
 [**_The newborn’s first cry as epistemic claim and foundation of psychological development: Attachment, autonomy, and resilience_**](https://github.com/Peter-Kahl/The-Newborns-First-Cry-as-Epistemic-Claim-and-Foundation-of-Psychological-Development) (Lex et Ratio Ltd, London, 2025).
 
-## KMED-I Script
-
-- The Python script is avaialable [here](https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/blob/main/src/kmed_infant_run.py) .
-
 ## Requirements
 
 - Python 3.9+
@@ -30,6 +26,9 @@ The script reproduces the simulations documented in the paper:
 Install dependencies via:
 
 ```bash
+# install dependencies
+pip install -r requirements.txt
+# or
 pip install numpy matplotlib
 ```
 
