@@ -1,6 +1,6 @@
 # KMED-I (Infancy) — Cry–Response Dyad Simulator
 
-![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/KMED-I-infant-simulation-epistemic-psychology/blob/main/mum_baby.jpg?raw=true)
+![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/blob/main/mum_baby.jpg?raw=true)
 
 This repository contains the official Python implementation of KMED-I (Infancy) — a simulation framework modelling the infant–caregiver cry–response dyad.
 
@@ -19,7 +19,7 @@ The script reproduces the simulations documented in the paper:
 
 ## KMED-I Script
 
-- The Python script is avaialable [here](https://github.com/Peter-Kahl/KMED-I-infant-simulation-epistemic-psychology/blob/main/src/kmed_infant_run.py) .
+- The Python script is avaialable [here](https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/blob/main/src/kmed_infant_run.py) .
 
 ## Requirements
 
@@ -38,8 +38,8 @@ pip install numpy matplotlib
 Clone the repository:
 
 ```bash
-git clone https://github.com/Peter-Kahl/KMED-I-infant-simulation-epistemic-psychology.git
-cd KMED-I-infant-simulation-epistemic-psychology/src
+git clone https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator.git
+cd KMED-I-infant-cry-response-dyad-simulator/src
 ```
 
 ## License
