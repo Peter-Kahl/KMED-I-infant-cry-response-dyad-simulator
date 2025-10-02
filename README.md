@@ -26,12 +26,11 @@ The script reproduces the simulations documented in the paper:
 - Python 3.9+
 - `numpy`
 - `matplotlib`
-- `os`
 
 Install dependencies via:
 
 ```bash
-pip install numpy matplotlib os
+pip install numpy matplotlib
 ```
 
 ## Installation
@@ -40,6 +39,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Peter-Kahl/KMED-I-infant-simulation-epistemic-psychology.git
+cd KMED-I-infant-simulation-epistemic-psychology/src
 ```
 
 ## License
