@@ -1,0 +1,20 @@
+{
+  "script": "kmed_infant_run.py",
+  "version": "0.9.7",
+  "timestamp": "2025-10-01T09:13:20",
+  "user": "peter",
+  "python": "3.11.13",
+  "policy": "neglect",
+  "T": 100,
+  "seed": 42,
+  "alpha": 0.035,
+  "beta": 0.045,
+  "gamma": 0.04,
+  "kappa": 0.05,
+  "mu": 0.04,
+  "nu": 0.035,
+  "eta": 0.0,
+  "lam": 0.08,
+  "pi_penalty": 0.03,
+  "noise": 0.01
+}
