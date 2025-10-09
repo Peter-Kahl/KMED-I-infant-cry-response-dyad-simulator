@@ -1,6 +1,6 @@
 # KMED-I (Infancy): Cry–Response Dyad Simulator
 
-[![DOI](https://zenodo.org/badge/1068512729.svg)](https://doi.org/10.5281/zenodo.17293190)
+[![DOI](https://zenodo.org/badge/1068512729.svg)](https://doi.org/10.5281/zenodo.17293190) [![Generic badge](https://img.shields.io/badge/ORCID-0009.0003.1616.4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![A stylised illustration of a mother holding her smiling infant, rendered in warm orange tones. The image symbolises the newborn’s cry and caregiver recognition as the foundational exchange of epistemic life, where comfort and care scaffold resilience and autonomy.](https://github.com/Peter-Kahl/KMED-I-infant-cry-response-dyad-simulator/blob/main/mum_baby.jpg?raw=true)
 
